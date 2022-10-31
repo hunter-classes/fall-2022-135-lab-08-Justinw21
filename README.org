@@ -6,7 +6,7 @@
 
 * GitHub username: Justinw21
 
-* Notes:
+* Notes: I use dog.pgm for scale.cpp (Task E)
 
 
   
