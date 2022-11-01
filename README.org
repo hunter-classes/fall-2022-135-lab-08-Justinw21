@@ -1,12 +1,12 @@
 * Fall 2022 - Lab 08
 
-* Last name:
+* Last name: Wong
 
-* First name:
+* First name: Justin
 
-* GitHub username:
+* GitHub username: Justinw21
 
-* Notes:
+* Notes: I use inImage.pgm for scale.cpp (Task E)
 
 
   
