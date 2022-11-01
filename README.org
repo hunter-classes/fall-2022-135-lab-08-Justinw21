@@ -6,7 +6,7 @@
 
 * GitHub username: Justinw21
 
-* Notes: I use dog.pgm for scale.cpp (Task E)
+* Notes: I use inImage.pgm for scale.cpp (Task E)
 
 
   
